@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "SCN Dispatch Binds (by enigmatiX78)",
+  "version": "1.0",
+  "description": "Map up to 10 global keybinds to talkgroup IDs and click elements in the current tab.",
+  "permissions": ["storage", "scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "commands": {
+    "bind_1": {
+      "description": "Trigger bind 1"
+    },
+    "bind_2": {
+      "description": "Trigger bind 2"
+    },
+    "bind_3": {
+      "description": "Trigger bind 3"
+    },
+    "bind_4": {
+      "description": "Trigger bind 4"
+    },
+    "bind_5": {
+      "description": "Trigger bind 5"
+    },
+    "bind_6": {
+      "description": "Trigger bind 6"
+    },
+    "bind_7": {
+      "description": "Trigger bind 7"
+    },
+    "bind_8": {
+      "description": "Trigger bind 8"
+    },
+    "bind_9": {
+      "description": "Trigger bind 9"
+    },
+    "bind_10": {
+      "description": "Trigger bind 10"
+    }
+  }
+}

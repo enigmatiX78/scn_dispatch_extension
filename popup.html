@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SCN Dispatch Binds</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    label { display: block; margin-top: 10px; }
+    input[type="number"] { width: 80px; }
+    .row { margin-bottom: 8px; }
+    button { margin-top: 15px; }
+  </style>
+</head>
+<body>
+  <h2>Talkgroup ID Mappings</h2>
+  <form id="bindForm">
+    <div id="binds"></div>
+    <label for="tabSelect">Target Tab:</label>
+    <select id="tabSelect"></select>
+    <button type="submit">Save</button>
+  </form>
+  <div id="status"></div>
+  <script src="popup.js"></script>
+</body>
+</html>
