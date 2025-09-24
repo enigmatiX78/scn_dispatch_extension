@@ -12,10 +12,11 @@ A Chrome extension which allows users of [SCN Radio](https://www.scncomms.app/) 
 
 #### How do I install the extension?
 
+* Unzip the extension package to a folder.
 * Open up the [Extensions Manager](chrome://extensions/).
 * Ensure "Developer mode" is enabled at the top right corner.
 * Click the "Load unpacked" button.
-* Locate the .ZIP file on your hard drive and select it.
+* Locate the folder from the first step on your hard drive and select it.
 
 #### How do I configure the extension?
 
