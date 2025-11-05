@@ -1,6 +1,8 @@
-# SCN Radio Dispatch Chrome Extension
+# SCN Radio Dispatch Chrome Extension (unofficial)
 
 A Chrome extension which allows users of [SCN Radio](https://www.scncomms.app/) to map global keybinds to specific talkgroups (channels) in their Dispatch panel to enable use of things like foot pedals, Stream Decks, etc. to simplify dispatch operations. Once properly installed, you can run Chrome in the background with the Dispatch panel open in a tab and the extension configured, and it will still respond to your keybinds.
+
+**Note:** This unofficial extension was not developed by, and is not endorsed by, the developers of SCN Radio.
 
 ***No support is provided for the extension.*** You are welcome to download it and use it if it works for you, and make any modifications you like, but please don't reach out for assistance. The extent of the assistance I am able to offer is provided in the FAQ below. Thank you for your understanding and I hope you find this extension useful.
 ## Authors
